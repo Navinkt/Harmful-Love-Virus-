@@ -1,0 +1,8 @@
+X=MsgBox("I have a question for you",3+48,"System")
+X=MsgBox("Will you become my valentine? ",4+64,"Love Question!")
+X=MsgBox("Please",4+64,"Critical")
+X=MsgBox("Please",4+64,"Critical")
+X=MsgBox("Please",4+64,"Critical")
+X=MsgBox("Please",4+64,"Critical")
+X=MsgBox("I Love You Too",0+64,"Love You")
+X=MsgBox("Thank You",0+64,"Love You")
